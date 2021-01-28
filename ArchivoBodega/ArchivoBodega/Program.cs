@@ -708,5 +708,11 @@ namespace ArchivoBodega
             leerBinary.Close();
             archivoBinary.Close();
         }
+
+        public static void f()
+        {
+
+        }
+
     }
 }
