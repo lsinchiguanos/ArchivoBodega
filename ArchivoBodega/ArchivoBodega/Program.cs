@@ -709,10 +709,5 @@ namespace ArchivoBodega
             archivoBinary.Close();
         }
 
-        public static void f()
-        {
-
-        }
-
     }
 }
